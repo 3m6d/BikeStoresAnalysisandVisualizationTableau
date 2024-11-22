@@ -1,4 +1,3 @@
-```markdown
 # Tableau Quantity Sold and Revenue Analysis
 
 This repository contains SQL queries, Tableau workbooks, and visualization examples for analyzing the relationship between **Quantity Sold** and **Revenue**.
@@ -86,4 +85,3 @@ Feel free to contribute by:
 ## License
 
 This project is licensed under the MIT License.
-```
